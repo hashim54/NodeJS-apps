@@ -1,0 +1,56 @@
+h1 {
+    color: red;
+    font-family: arial;
+    max-width: 650px;
+    margin: auto 16px; 
+    padding: 16px;
+}
+
+f1 {
+    color: red;
+    font-family: arial;
+    max-width: 650px;
+    margin: 16px; 
+    padding: 16px;
+}
+
+div {
+    color: red;
+    font-family: arial;
+    max-width: 650px;
+    margin:  16px; 
+    padding: 16px;
+}
+
+body {
+    color: red;
+    font-family: arial;
+    max-width: 650px;
+    margin: 16px; 
+    padding: 16px;
+}
+p1 {
+    color: red;
+    font-family: arial;
+    max-width: 650px;
+    margin: 16px; 
+    padding: 16px;
+}
+
+header {
+    color: blue;
+    max-width: 650px;
+    margin: 16px; 
+    padding: 16px;  
+}
+
+footer {
+    color: blue;
+    max-width: 650px;
+    margin: 16px; 
+    padding: 16px;
+}
+
+.portrait {
+    width: 0px;
+}
